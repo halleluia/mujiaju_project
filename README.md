@@ -4,3 +4,4 @@ All these executing procedures are described as follows:
 1. Download all files in a same folder as a project;
 2. Open the project with the VScode on your PC;
 3. Run the index.html file with the VScode to watch the whole presentation of the index.html file to see if there are some problems. And you can fine-tune the codes by yourself if you want to make some change about the web effect;
+Notice: The index2.html is the original design script of the whole mujiaju_project, and you can finish all these works all by yourself if you want to do it again.
